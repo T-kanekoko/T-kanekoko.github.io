@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Kaneko | Tatsuya Kaneko</title>
+    <link>https://t-kanekoko.github.io/authors/t.-kaneko/</link>
+      <atom:link href="https://t-kanekoko.github.io/authors/t.-kaneko/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Kaneko</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://t-kanekoko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>T. Kaneko</title>
+      <link>https://t-kanekoko.github.io/authors/t.-kaneko/</link>
+    </image>
+    
+    <item>
+      <title>Holmes: A hardware-oriented optimizer using logarithms</title>
+      <link>https://t-kanekoko.github.io/publication/yamagishi-2022-holmes/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/yamagishi-2022-holmes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware-oriented deep reinforcement learning for edge computing</title>
+      <link>https://t-kanekoko.github.io/publication/yamagishi-2021-hardware/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/yamagishi-2021-hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems and circuits for AI chips and their trends</title>
+      <link>https://t-kanekoko.github.io/publication/momose-2020-systems/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/momose-2020-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study on a low power optimization algorithm for an edge-AI Device</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2019-low/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2019-low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware-oriented algorithm and architecture for generative adversarial networks</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2019-hardware/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2019-hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study on ternary back propagation algorithm for embedded egde-AI processing</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2018-study/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2018-study/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

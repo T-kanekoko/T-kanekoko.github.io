@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>山岸 善治 | Tatsuya Kaneko</title>
+    <link>https://t-kanekoko.github.io/authors/%E5%B1%B1%E5%B2%B8-%E5%96%84%E6%B2%BB/</link>
+      <atom:link href="https://t-kanekoko.github.io/authors/%E5%B1%B1%E5%B2%B8-%E5%96%84%E6%B2%BB/index.xml" rel="self" type="application/rss+xml" />
+    <description>山岸 善治</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://t-kanekoko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>山岸 善治</title>
+      <link>https://t-kanekoko.github.io/authors/%E5%B1%B1%E5%B2%B8-%E5%96%84%E6%B2%BB/</link>
+    </image>
+    
+    <item>
+      <title>エッジAIのオンライン学習に向けたハードウェア指向対数量子化オプティマイザの提案</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2022-b/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2022-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>エッジ学習に向けたモーメンタム最適化法のハードウェア設計</title>
+      <link>https://t-kanekoko.github.io/publication/yamagishi-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/yamagishi-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>アナログAIデバイスのオンライン学習に向けた学習アルゴリズムとそのFPGAアーキテクチャ</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2021-a/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>アナログAIチップのオンライン学習に向けた改良型デジタルバックプロパゲーション法の提案</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2020-improved/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2020-improved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>エッジAIに向けた三値バックプロパゲーション法とそのFPGA実装</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2020-ternary/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2020-ternary/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -33,10 +33,74 @@
     </item>
     
     <item>
-      <title>Test1</title>
-      <link>https://t-kanekoko.github.io/publication/test1/</link>
-      <pubDate>Tue, 16 May 2023 01:04:22 +0900</pubDate>
-      <guid>https://t-kanekoko.github.io/publication/test1/</guid>
+      <title>エッジAIのオンライン学習に向けた学習アルゴリズムの軽量化</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2023-a/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2023-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-Device Training Architecture for Analog ReRAM Neural Networks with Digital BP</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2022-ondevice/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2022-ondevice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>エッジAIのオンライン学習に向けたハードウェア指向対数量子化オプティマイザの提案</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2022-b/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2022-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holmes: A hardware-oriented optimizer using logarithms</title>
+      <link>https://t-kanekoko.github.io/publication/yamagishi-2022-holmes/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/yamagishi-2022-holmes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>エッジ学習に向けたモーメンタム最適化法のハードウェア設計</title>
+      <link>https://t-kanekoko.github.io/publication/yamagishi-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/yamagishi-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>アナログAIデバイスのオンライン学習に向けた学習アルゴリズムとそのFPGAアーキテクチャ</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2021-a/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>不揮発アナログAIデバイス（RAND）のオンライン学習制御システム実装とその評価</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2021-b/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2021-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware-oriented deep reinforcement learning for edge computing</title>
+      <link>https://t-kanekoko.github.io/publication/yamagishi-2021-hardware/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/yamagishi-2021-hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>脳型ハードウェア作りを実機で体験するAI Circuit Lab</title>
+      <link>https://t-kanekoko.github.io/publication/momose-2021-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/momose-2021-a/</guid>
       <description></description>
     </item>
     
@@ -118,6 +182,78 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>アナログAIチップのオンライン学習に向けた改良型デジタルバックプロパゲーション法の提案</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2020-improved/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2020-improved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>エッジAIコンピューティングに向けた低電力・低リソース化学習アルゴリズムとそのFPGA実装</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2020-low/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2020-low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems and circuits for AI chips and their trends</title>
+      <link>https://t-kanekoko.github.io/publication/momose-2020-systems/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/momose-2020-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>エッジAIに向けた三値バックプロパゲーション法とそのFPGA実装</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2020-ternary/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2020-ternary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ハードウェアAI作りの第一歩！人工知能の基本アルゴリズム</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ハードウェアAI製作に使うアーキテクチャの基本</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2020-b/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2020-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>マイコンにAIを実装するための基礎知識</title>
+      <link>https://t-kanekoko.github.io/publication/momose-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/momose-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An FPGA accelerator for Arduino implementing a ternarized backpropagation algorithm</title>
+      <link>https://t-kanekoko.github.io/publication/momose-2019-fpga/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/momose-2019-fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An FPGA accelerator for embedded microcontrollers implementing a ternarized backpropagation algorithm</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2019-fpga/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2019-fpga/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -224,7 +360,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-326914785&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-641758239&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -234,7 +370,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-326914785&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-641758239&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -515,20 +651,6 @@ Crash --&gt; [*]
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://t-kanekoko.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://t-kanekoko.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>https://t-kanekoko.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -713,6 +835,46 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Ternarized backpropagation: a hardware-oriented optimization algorithm for edge-oriented AI devices</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2019-ternarized/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2019-ternarized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study on a low power optimization algorithm for an edge-AI Device</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2019-low/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2019-low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware-oriented algorithm and architecture for generative adversarial networks</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2019-hardware/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2019-hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>敵対的生成ネットワークのハードウェア指向アルゴリズムとそのアーキテクチャの検討</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2018-hardware/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2018-hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study on ternary back propagation algorithm for embedded egde-AI processing</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2018-study/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2018-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Project</title>
       <link>https://t-kanekoko.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -731,44 +893,6 @@ $$&lt;/p&gt;
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://t-kanekoko.github.io/project/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://t-kanekoko.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://t-kanekoko.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://t-kanekoko.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://t-kanekoko.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>

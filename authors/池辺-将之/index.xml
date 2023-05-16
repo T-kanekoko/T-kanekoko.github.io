@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>池辺 将之 | Tatsuya Kaneko</title>
+    <link>https://t-kanekoko.github.io/authors/%E6%B1%A0%E8%BE%BA-%E5%B0%86%E4%B9%8B/</link>
+      <atom:link href="https://t-kanekoko.github.io/authors/%E6%B1%A0%E8%BE%BA-%E5%B0%86%E4%B9%8B/index.xml" rel="self" type="application/rss+xml" />
+    <description>池辺 将之</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://t-kanekoko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>池辺 将之</title>
+      <link>https://t-kanekoko.github.io/authors/%E6%B1%A0%E8%BE%BA-%E5%B0%86%E4%B9%8B/</link>
+    </image>
+    
+    <item>
+      <title>敵対的生成ネットワークのハードウェア指向アルゴリズムとそのアーキテクチャの検討</title>
+      <link>https://t-kanekoko.github.io/publication/kaneko-2018-hardware/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/kaneko-2018-hardware/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
