@@ -65,6 +65,14 @@
     </item>
     
     <item>
+      <title>最適化装置及び最適化方法並びに最適化用プログラム</title>
+      <link>https://t-kanekoko.github.io/publication/asai-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://t-kanekoko.github.io/publication/asai-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>エッジ学習に向けたモーメンタム最適化法のハードウェア設計</title>
       <link>https://t-kanekoko.github.io/publication/yamagishi-2021/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
@@ -360,7 +368,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-641758239&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-432916587&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -370,7 +378,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-641758239&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-432916587&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
